@@ -1,0 +1,7 @@
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/Klasserom1201.dir
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/DEV/DTE-2600C++/Klasserom/build-Klasserom1201-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
